@@ -2226,6 +2226,12 @@ header .logo a {
 	-ms-transform: scale(1.05);
 	transform: scale(1.05);
 }
+.center {
+  display: block;
+  margin-left: -500;
+  margin-right:0;
+  width: 80%;
+}
 
 /**
  * responsive:
